@@ -13,3 +13,7 @@ A calculadora de IMC permite que os usuários insiram seu peso e altura e calcul
     - Peso normal
     - Sobrepeso
     - Obesidade
+
+## Resultado Final
+https://github.com/user-attachments/assets/d574d899-0d47-48c4-8187-202335bb0e1a
+
